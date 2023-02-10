@@ -10,7 +10,3 @@
 </div>
 
 ---
-### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsassha&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&background=FFFFFF00)](https://git.io/streak-stats)
-### My most popular languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsassha&layout=compact&theme=midnight-purple&)](https://github.com/anuraghazra/github-readme-stats)
